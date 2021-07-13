@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Designeux
-- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research Frontend Development and Technical Writing
+- 👋 Hi, I’m @Designeux.
+- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research Frontend Development, and Technical Writing.
 
-- 💞️ I’m looking to collaborate on UI Projects
+- 💞️ I’m looking to collaborate on UI Projects.
 - 📫 How to reach me:
 1. Polywork: https://www.polywork.com/designeux
 
