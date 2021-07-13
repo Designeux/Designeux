@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Designeux
-- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research, Technical Writing
+- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research Frontend Development and Technical Writing
 
 - 💞️ I’m looking to collaborate on UI Projects
 - 📫 How to reach me:
