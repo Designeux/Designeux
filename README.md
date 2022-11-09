@@ -1,5 +1,5 @@
 - 👋 Hi, i’m Adaobi Okonkwo
-- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research, Frontend Development, and Copywriting.
+- 👀 I’m interested in UI/Visual Design, Product Design, UX Design/Research, Frontend Development, and Product Management.
 - 🧠 I'm currently learning JavaScript and C#
 
 - 💞️ I’m looking to collaborate on UI and Web3 Projects.
