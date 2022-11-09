@@ -4,7 +4,7 @@
 
 - 💞️ I’m looking to collaborate on UI and Web3 Projects.
 - 📫 How to reach me:
-1. Polywork: https://www.polywork.com/designeux
+1. LinkedIn: https://www.linkedin.com/in/amokonkwo
 
 2. Twitter: https://twitter.com/AdadDon1
 
